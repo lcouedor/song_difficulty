@@ -1,5 +1,5 @@
 # song_difficulty
-calculer un score de difficulté à partir d'une partition téléchargée depuis Musescore
+Projet personnel : Calculer un score de difficulté à partir d'une partition téléchargée depuis Musescore
 
 # Utilisation
 Pour utiliser le script il faut télécharger une partition au format "musicXML" depuis le site de Musescore. 
